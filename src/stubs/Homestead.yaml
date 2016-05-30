@@ -10,8 +10,8 @@ keys:
     - ~/.ssh/id_rsa
 
 folders:
-    - map: ~/Code
-      to: /home/vagrant/Code
+	- map: f:/GIT/PHP/mathmaps/Code
+	to: /home/vagrant/Code
 
 sites:
     - map: homestead.app

@@ -8,5 +8,5 @@ copy /-y src\stubs\Homestead.yaml "%homesteadRoot%\Homestead.yaml"
 copy /-y src\stubs\after.sh "%homesteadRoot%\after.sh"
 copy /-y src\stubs\aliases "%homesteadRoot%\aliases"
 
-set homesteadRoot=
+set homesteadRoot=!
 echo Homestead initialized!
